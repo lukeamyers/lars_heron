@@ -4,7 +4,7 @@ Demos for
 2. Heron's method generalized to the nth root
 
 ## Instructions
-please use the jupyter notebook (`lars_heron.ipynb`) to see the LARS method 
+Please use the jupyter notebook (`lars_heron.ipynb`) to see the LARS method 
 applied to the diabetes data and a simple calculation of nth roots using the 
 generalized Heron's method. 
 
