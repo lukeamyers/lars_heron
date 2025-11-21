@@ -16,6 +16,7 @@ The easiest way to use this notebook is to start a Github codespace.
 4. It may seem like its ready, but please wait longer for the postCreate 
 command to finish installing conda. This will take another minute or two
 5. open the `lars_heron.ipynb` file
+6. you may be prompted to install an extension for python. Do so if you wish.
 6. click select kernel
 7. click install kernel suggestions extension
 7. select python enivronments and choose "venv"
