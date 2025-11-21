@@ -17,7 +17,8 @@ The easiest way to use this notebook is to start a Github codespace.
 command to finish installing conda. This will take another minute or two
 5. open the `lars_heron.ipynb` file
 6. click select kernel
-7. select python enivronments and choose "myenv"
+7. click install kernel suggestions extension
+7. select python enivronments and choose "venv"
 
 You should now be able to run the jupyter notebook.
 
